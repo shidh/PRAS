@@ -3,4 +3,9 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="question">question here</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+
 </resources>
